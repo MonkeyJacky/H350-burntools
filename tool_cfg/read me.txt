@@ -1,0 +1,3 @@
+烧录中使用的配置文件为：  Setting.ini       烧录历史记录---不可修改
+                          uCosFileCfg.ini   文件参数设置---可修改
+                          NandInfo.cfg      Nand配置表-----添加新FLASH支持，可修改
